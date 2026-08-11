@@ -41,25 +41,25 @@ Additional features extracted from `Date/Time`:
 
 ## 📊 Visualizations & Analysis
 
-### 1. Density of Trips by Location
+### 1. Density of Trips per location
 
-![Density of Trips by Location](density-of-per-trip.png)
+![Density of Trips by Location](screenshots/density-of-per-trip.png)
 
 ### 2. Density of Trips per Hour
 
-![Density of Trips per Hour](density-per-hour.png)
+![Density of Trips per Hour](screenshots/density-per-hour.png)
 
 **Key observation:** Trip demand increases substantially during the afternoon and evening, with the highest demand around **5 PM–6 PM**.
 
 ### 3. Density of Trips per Weekday
 
-![Density of Trips per Weekday](density-weekend.png)
+![Density of Trips per Weekday](screenshots/density-weekend.png)
 
 **Key observation:** Trip volume varies across weekdays, with comparatively lower demand on the weekend.
 
 ### 4. Density of Trips per Day
 
-![Density of Trips per Day](density.png)
+![Density of Trips per Day](screenshots/density.png)
 
 **Key observation:** Trip volume fluctuates from day to day, with several days showing noticeably higher demand.
 
